@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Floating SPIDERR</title>
+	</head>
+	<body>
+	<div class = "web"></div>
+		<div class = "spider">
+		
+		
+			<div id = "foot-1"></div>
+			<div id = "foot-2"></div>
+			<div id = "foot-3"></div>
+			<div id = "foot-4"></div>
+			
+			 <div class = "circle-1">
+				 <div id = "dot"></div>
+				 <div id = "dot2"></div>
+				 <div id = "dot3"></div>
+			 </div>
+			 <div class = "circle-2">
+				 <div id = "eye1">
+				 <div id = "dot4"></div>
+				 </div>
+				 <div id = "eye2">
+					 <div id = "dot5"></div>
+				 </div>
+			 </div>
+			 <div class = "aa-1"></div>
+			 <div class = "bb-2"></div>
+			 
+			<div id = "foot-5"></div>
+			<div id = "foot-6"></div>
+			<div id = "foot-7"></div>
+		  <div id = "foot-8"></div>
+		</div>
+	</body>
+</html>
